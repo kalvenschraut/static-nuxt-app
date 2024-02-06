@@ -1,7 +1,3 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
-
 ## Setup
 
 Make sure to install the dependencies:
@@ -11,7 +7,7 @@ Make sure to install the dependencies:
 bun install
 ```
 
-## Build and Preview
+## Build and preview. .output/public are the built static files that any web server can serve out
 
 ```bash
 # bun
