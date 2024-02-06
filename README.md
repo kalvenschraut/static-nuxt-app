@@ -7,7 +7,8 @@ Make sure to install the dependencies:
 bun install
 ```
 
-## Build and preview. .output/public are the built static files that any web server can serve out
+## Build and preview.
+.output/public are the built static files that any web server can serve out
 
 ```bash
 # bun
