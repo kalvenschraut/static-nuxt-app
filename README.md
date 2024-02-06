@@ -12,6 +12,6 @@ bun install
 
 ```bash
 # bun
-bun build
+bun run build
 bun serve .ouput/public
 ```
